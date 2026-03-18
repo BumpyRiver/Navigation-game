@@ -3,8 +3,8 @@ while playing == True:
     import msvcrt
     import random
     maze=[]
-    row=8
-    column=20
+    row=10
+    column=10
     playerpos = [1,1]
     playerposn = playerpos.copy()
     cplayerposn = playerpos.copy()
