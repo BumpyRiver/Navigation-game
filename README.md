@@ -44,5 +44,7 @@ Input validation (invalid and out-of-bounds moves do not consume turns)
 
 Replay option after completing the game
 
+
 Customization
+
 Board size can be modified by changing the row and column values in the code
