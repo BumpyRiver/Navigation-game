@@ -31,7 +31,7 @@ The game displays the number of turns taken upon completion
 
 Special Spaces
 
-B (Boost): One-time use; adds +6 to the next dice roll(+12 if 2 dice are used)
+B (Boost): One-time use; adds +6 to the next dice roll(+12 when using 2 dice)
 
 X (X-ray): One-time use; reveals the coordinates of the key
 
